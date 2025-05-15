@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69920199376",
+    "project_id": "lab1-mobilki",
+    "storage_bucket": "lab1-mobilki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69920199376:android:0553592dcb0b9de10384d5",
+        "android_client_info": {
+          "package_name": "com.example.lab1.lab_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCj5YnWjm8EuLFwXFz8G-V8hqWnBcJUFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
